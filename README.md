@@ -8,10 +8,10 @@ The complete documentation is here:
 [Abeeway updater documentation](./Abeeway-Device-Updater-v2.4.0.pdf)
 
 Linux package for amd64 architecture:
-[Abeeway updater amd64](./Abeeway-Device-Updater-amd64-2.4.0.zip)
+[Abeeway updater amd64](./Abeeway-Device-Updater-amd64-2.3.5.zip)
 
 Windows package for win64 architecture:
-[Abeeway updater win64](./Abeeway-Device-Updater-win64-2.4.0.zip)
+[Abeeway updater win64](./Abeeway-Device-Updater-win64-2.3.5.zip)
 
 ## License
 Copyright (c) 2021 Abeeway. All Rights Reserved.
